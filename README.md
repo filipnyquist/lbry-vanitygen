@@ -1,6 +1,7 @@
 # Vanitygen with custom priv key setting for creating Vanity adresses for LBRY
 ##### How to make guide are in the INSTALL file.
 ##### After you made it and have an executable you can run it with ```vanitygen  -X 85 -Y 28 bCUSTOMHERE```
+##### IMPORTANT TO NOTE HERE IS THAT: 2:nd letter in the custom adress need to be Upper case ex. bF, bH
 ######
 ######Original Vanitygen Readme Below
 
